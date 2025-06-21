@@ -4,18 +4,18 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=by kibria5
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=garnet
+device.name2=
+device.name3=
+device.name4=
 device.name5=
-supported.versions=
+supported.versions=13.0-16.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
